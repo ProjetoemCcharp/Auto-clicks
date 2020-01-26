@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\bin\Debug\meuautoclick.exe.config
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\bin\Debug\meuautoclick.exe
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\bin\Debug\meuautoclick.pdb
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\obj\Debug\meuautoclick.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\obj\Debug\meuautoclick.Form1.resources
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\obj\Debug\meuautoclick.Properties.Resources.resources
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\obj\Debug\meuautoclick.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\obj\Debug\meuautoclick.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\obj\Debug\meuautoclick.exe
+C:\Users\dell\source\repos\meuautoclick\meuautoclick\obj\Debug\meuautoclick.pdb
